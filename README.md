@@ -6,7 +6,7 @@ Movix-App lets you explore trending, popular, and upcoming movies/series with a 
 ---
 
 ## 🌐 Live Demo
-  
+  (https://codemovix-app.netlify.app/)
 
 ---
 
